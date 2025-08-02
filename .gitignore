@@ -1,0 +1,9 @@
+# editor files
+.qodo
+.vscode
+
+#environment variables
+.env
+
+#node files
+node_modules
